@@ -12,6 +12,7 @@ Pessoa p2 = new Pessoa(nome: "Hóspede 2");
 hospedes.Add(p1);
 hospedes.Add(p2);
 
+
 // Cria a suíte
 Suite suite = new Suite(tipoSuite: "Premium", capacidade: 2, valorDiaria: 30);
 
